@@ -1,6 +1,3 @@
-package test.java;
-
-import main.Calculadora;
 import org.junit.Assert;
 import org.junit.Test;
 
